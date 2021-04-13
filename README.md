@@ -17,9 +17,15 @@ Hello! This is where I store the Jupyter Notebooks from all the Kaggle competiti
 - The evaluation metric was calculated using Weighted Root Mean Squared Scaled Error (WRMSSE), a variant of the Mean Absolute Scaled Error with the formula provided by the competition host. 
 - My final submission achieved a WMRSSE of 0.56580.
 
+For more details on the competition, please follow these links:
+- https://mofc.unic.ac.cy/m5-competition/
+- https://www.kaggle.com/c/m5-forecasting-accuracy/overview
+
+
 
 
 # [Mechanisms of Action (MoA) Prediction](https://www.kaggle.com/c/lish-moa)
 <b> Rank: top 29% </b><br>
 <b> November 30, 2020 </b><br>
 [MoA Notebook](https://github.com/helloannietran/kaggle/blob/master/mechanisms-of-action-prediction/neural-networks-keras.ipynb)
+
